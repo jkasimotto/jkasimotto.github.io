@@ -1,0 +1,10 @@
+---
+title: My Post with Images
+date: 2024-06-02
+---
+
+# My Post with Images
+
+Here is an image:
+
+![Example Image]({{ site.baseurl }}/assets/images/example.jpg)
