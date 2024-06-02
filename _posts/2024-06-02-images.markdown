@@ -1,6 +1,8 @@
 ---
+layout: post
 title: My Post with Images
 date: 2024-06-02
+categories: jekyll update
 ---
 
 # My Post with Images
