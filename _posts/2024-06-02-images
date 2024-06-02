@@ -7,4 +7,4 @@ date: 2024-06-02
 
 Here is an image:
 
-![Example Image]({{ site.baseurl }}/assets/images/example.jpg)
+![Example Image]({{ site.baseurl }}/assets/images/example.png)
